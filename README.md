@@ -8,8 +8,10 @@ Minimal JSCS reporter
 
 - [Install](#install)
 - [Usage](#usage)
+- [Tests](#tests)
 - [Developing](#developing)
   - [Requirements](#requirements)
+- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
